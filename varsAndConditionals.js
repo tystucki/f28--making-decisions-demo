@@ -39,3 +39,4 @@ while(obiwanHealth > 0){
         console.log('Obiwan was slain')
     }
 }
+
